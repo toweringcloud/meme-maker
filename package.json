@@ -1,0 +1,26 @@
+{
+	"name": "meme-maker",
+	"description": "create your own meme using vanillajs canvas",
+	"license": "MIT",
+	"author": "toweringcloud",
+	"homepage": "https://toweringcloud.github.io/meme-maker",
+	"inspiredby": "https://nomadcoders.co/javascript-for-beginners-2",
+	"keywords": [
+		"html5",
+		"css3",
+		"vanillajs",
+		"canvas",
+		"meme",
+		"maker",
+		"artist"
+	],
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"vite": "^4.5.0"
+	}
+}
